@@ -1,20 +1,12 @@
-body{font-family: 'Poppins', sans-serif;
-
-}
+body{font-family: 'Poppins', sans-serif;}
 h1{
-    font-size: 60px;
-}
+    font-size: 60px;}
 .color.ornge{
-    color: coral; font-size: 70px;
-}
+    color: coral; font-size: 70px;}
 section{
-    display: flex;
-}
+    display: flex;}
 .half-width{
     width: 50%;
-    padding-left: 5%;
-
-}
+    padding-left: 5%;}
 .half-width img{
-    width: 80%;
-}
+    width: 80%;}
