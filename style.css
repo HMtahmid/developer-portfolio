@@ -5,7 +5,7 @@ h1{
     font-size: 60px;}
 .color.ornge{
     color: coral; font-size: 70px;}
-section{
+.flex-cont{
     display: flex;
 margin-bottom: 400px;
 }
@@ -28,7 +28,41 @@ font-weight: 500; }
 
 }
 .drem-big{background-image: url(pic/dream-bg.png);
-background-repeat: no-repeat;
+    background-repeat: no-repeat;
 background-position: right;
 
+}
+.color.ornge1{
+    color: coral; font-size: 20px;}
+    .Experiences{
+        width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+padding-left: 50px;
+border-radius: 20px;
+
+}
+ h2{font-size: 40px;}
+ .end{
+     background-image: url(pic/exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left;
+     
+
+
+ }
+ #ex-2{
+     border-left: 7px solid;
+     border-image: linear-gradient(blue , cyan);
+     border-image-slice: 1;
+ }
+ #ex-1{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(243, 160, 35) , rgb(238, 72, 7));
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+    color: coral; font-size: 20px;
 }
